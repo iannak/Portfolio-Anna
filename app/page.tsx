@@ -154,6 +154,32 @@ export default function Home() {
                       <div className="absolute -left-[0.5rem] top-10 w-4 h-4 bg-[#667eea] rounded-full"></div>
                       <div className="bg-white p-8 rounded-xl shadow-[0_5px_15px_rgba(0,0,0,0.1)] ml-8">
                           <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 mb-4">
+                              <h4 className="text-xl font-semibold text-[#1a1a1a] m-0">Python Analyst</h4>
+                              <span className="text-[#667eea] font-medium flex items-center gap-2">
+                                  <Image
+                                      src="/e-deploy-logo.svg"
+                                      alt="E-Deploy logo"
+                                      width={20}
+                                      height={20}
+                                      className="w-5 h-5 opacity-80 dark:invert"
+                                  />
+                                  E-Deploy
+                              </span>
+                          </div>
+                          <span className="block text-sm text-[#666] mb-4">April 2025 – November 2025 (8 months)</span>
+                          <p>
+                              Full-time role focused on Python analytics and automation. Primary technology: Python.
+                              <span className="block text-sm text-[#666] mt-2">
+                                  Tempo integral focado em análises e automações com Python. Período: abr de 2025 – nov de 2025 (8 meses). Tecnologia principal: Python.
+                              </span>
+                          </p>
+                      </div>
+                  </div>
+
+                  <div className="relative py-8 border-l-2 border-[#667eea] ml-8">
+                      <div className="absolute -left-[0.5rem] top-10 w-4 h-4 bg-[#667eea] rounded-full"></div>
+                      <div className="bg-white p-8 rounded-xl shadow-[0_5px_15px_rgba(0,0,0,0.1)] ml-8">
+                          <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 mb-4">
                               <h4 className="text-xl font-semibold text-[#1a1a1a] m-0">Software Engineer</h4>
                               <span className="text-[#667eea] font-medium">Lighthouse</span>
                           </div>
